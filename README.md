@@ -4,13 +4,13 @@ Additionally used: NPM and Parcel JS to bundle files
 
 # Installation
 
-Pre-requests:
-Parcel JS Installed
+Pre-requests:<br>
+Parcel JS Installed <br>
 NPM Installed
 
-How to use/ install:
-Open your terminal and locate your project folder
-RUN npm update
-RUN parcel index.html
+How to use/ install:<br>
+Open your terminal and locate your project folder<br>
+RUN npm update<br>
+RUN parcel index.html<br>
 Done :) 
 
